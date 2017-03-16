@@ -1,0 +1,11 @@
+{
+  "name": "Xssworm Payment Gateway",
+  "license": "MIT",
+  "minimum-stability": "beta",
+  "require": {
+    "lokielse/omnipay-alipay": "^2.0",
+    "lokielse/omnipay-global-alipay": "dev-master",
+    "lokielse/omnipay-wechatpay": "^1.0",
+    "lokielse/omnipay-unionpay": "dev-master"
+  }
+}
